@@ -1,4 +1,4 @@
-# rubix-cube
+# RUBIX-CUBE    
 
 This project involves implementation of encryption of image using modified-rubix cube algorithm.
 
