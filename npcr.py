@@ -1,8 +1,6 @@
 import numpy as np
 from scipy import misc
 from PIL import Image
-from scipy import fftpack
-import random
 import sys
 import copy
 import math
